@@ -1,4 +1,5 @@
 # Ember.js Twitter App
+*Estimated time: 4-5 hours*
 
 ### Goal
 Create an Ember.js app that clones Twitter and report on how you could take advantage of Ember for Naritiv.
@@ -18,5 +19,3 @@ Create an Ember.js app that clones Twitter and report on how you could take adva
 - How do you see deploying this app?
 - How do you see this app scaling?
 - How would you create a build process around a front-end framework like this?
-
-Please don’t plan on spending more than 4-5 hours on it. Let me know if you have questions or concerns!
