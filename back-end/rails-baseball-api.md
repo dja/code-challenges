@@ -5,7 +5,7 @@
 Create an API in a Rails app that tracks baseball scores for a team and players.
 
 #### Level 1
-- Create an API in a Rails app. You can use Rails::API, Rails 5.0.0 beta 1, Grape-Ruby API, or roll your own.
+- Create an API in a Rails app. You can use [Rails::API](https://github.com/rails-api/rails-api), [Rails 5.0.0 beta 1](https://github.com/rails/rails/tree/v5.0.0.beta1), [Grape-Ruby API](https://github.com/ruby-grape/grape), or roll your own.
 - The app should have models for baseball players, their teams, games, and any other models you deem necessary to track scoring.
 
 #### Level 2
