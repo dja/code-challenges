@@ -21,3 +21,8 @@ Create an Ember.js app that makes the Foursquare database of venues searchable a
 - Add an input to filter the list of venues based on location, price, or any other values.
 - Add the ability to sort based on distance, price, etc.
 - Bonus: Ability to select an area on a map (or use current location and radius) to filter.
+
+**Report:**
+- Where did you find difficulty in building a solution?
+- Which parts were fun and inspirational to you?
+- If you had more time, what would you do next?
