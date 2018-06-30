@@ -5,7 +5,7 @@
 Create an Ember.js app that lists vitamin ingredients with a detail view
 
 ### Notes before you start
-- The UI/UX is available in this folder for a desktop layout. You should also make it work gracefully on a mobile screen.
+- The UI/UX is available in this folder for a desktop layout in both Sketch and PDF formats. You should also make it work gracefully on a mobile screen.
 - You shouldn't need to create any back-end to support this front-end. If you feel that you do, please let me know.
 - Each level is designed to build on the previous one - it will get harder, don't feel an obligation to complete all levels. Just complete as much as you feel delivers the product you want to ship.
 - When you're done, deploy the app to a free provider (Heroku, etc), and share access to your Github repository with username: '@dja'.
