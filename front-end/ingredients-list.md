@@ -1,8 +1,8 @@
-# Ember.js Ingredients List
+# Ingredients List
 *Estimated time: 3-4 hours*
 
 ### Goal
-Create an Ember.js app that lists vitamin ingredients with a detail view
+Create a client-side app that lists vitamin ingredients with a detail view. You can use Ember.js, VueJS, or ReactJS (but bonus points if you use Ember.js)
 
 ### Notes before you start
 - The UI/UX is available in this folder for a desktop layout in both Sketch and PDF formats. You should also make it work gracefully on a mobile screen.
