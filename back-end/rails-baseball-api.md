@@ -1,10 +1,10 @@
 # Rails Baseball API
-*Estimated time: 4-5 hours*
+*Estimated time: 3-4 hours*
 
 ### Goal
 Create an API in a Rails app that tracks baseball scores for a team and players.
 
-_Each level gets harder and builds on the previous code. Please don’t spend more than 5 hours._
+_Each level gets harder and builds on the previous code. Please don’t spend more than 4 hours._
 
 #### Level 1
 - Create an API in a Rails app. You can use [Rails::API](https://github.com/rails-api/rails-api), [Rails v5.0.0.rc1](https://github.com/rails/rails/tree/v5.0.0.rc1), [Grape-Ruby API](https://github.com/ruby-grape/grape), or roll your own.
