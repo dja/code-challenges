@@ -17,11 +17,11 @@ Create a full-stack that lists dietary supplements with a detail view. Use your 
 - Create a list of supplements, with an expanded detail view that shows when selecting one. This should consume the API created in Level 1, and follow the design as shared in the related PDF and Sketch files.
 
 ### Level 3
-- Add the ability to sort and filter the supplements.
-
-### Level 4
 - Add the ability to search ingredients by name.
 - Bonus: Try searching ingredients by more than name?
+
+### Level 4
+- Add the ability to email a dietary supplement, with the contents in the body of the email.
 
 **Report:**
 - Where did you find difficulty in building a solution?
