@@ -1,4 +1,4 @@
-# Ingredients List
+# Dietary Supplements App
 *Estimated time: 6-8 hours*
 
 ## Goal
