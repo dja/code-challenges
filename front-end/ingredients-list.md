@@ -2,7 +2,7 @@
 *Estimated time: 3-4 hours*
 
 ### Goal
-Create a client-side app that lists vitamin ingredients with a detail view. You can use Ember.js, VueJS, or ReactJS
+Create a client-side app that lists vitamin ingredients with a detail view. You can use React (Gatsby/Next), Ember.js, or any other JS framework you'd like.
 
 ### Notes before you start
 - The UI/UX is available in this folder for a desktop layout in both Sketch and PDF formats. You should also make it work gracefully on a mobile screen.
@@ -15,7 +15,7 @@ Create a client-side app that lists vitamin ingredients with a detail view. You 
 - Create a list of ingredients, with an expanded detail view that shows when clicking an ingredient.
 
 #### Level 2
-- Add the functionality to **add** or **remove** ingredients from the list.
+- Add the functionality to **add** or **remove** ingredients from the list. Adding or removing an ingredient should change the ingredient list automatically.
 
 #### Level 3
 - Add the ability to sort ingredients alphabetically.
