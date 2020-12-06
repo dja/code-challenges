@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Folate",
+    "dosage": "600 mcg",
+    "description": "Our enzymatically active and cell-identical 5MTHF folate is an optimal form.",
+    "imagePath": "/folate.jpg",
+    "foundIn": "Lentils, avocado, and oranges.",
+    "form": "6S-5-methyltetrahydrofolate, Glucosamine Salt",
+    "source": "Salt, Phenylethylamine and Glucosamine",
+    "supplier": "Gnosis",
+    "location": "Pisticci, Italy",
+    "articles": [
+      {
+        "title": "Foods, fortificants, and supplements: where do Americans get their nutrients?",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/21865568/",
+        "author": "Nutrition Impact LLC",
+        "year": "2011"
+      },
+      {
+        "title": "Neural tube defects, folic acid and methylation",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/19301298/",
+        "author": "VU Free University",
+        "year": "2013"
+      },
+      {
+        "title": "Folate, folic acid and 5-methyltetrahydrofolate are not the same thing",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/24494987/",
+        "author": "University of Milan",
+        "year": "2014"
+      },
+    ]
+  },
+  {
+    "name": "Vitamin D",
+    "dosage": "50 mcg (2000 IU)",
+    "description": "Vitamin D3 assists with calcium absorption.",
+    "imagePath": "vitamin-d.jpg",
+    "foundIn": "Fish, milk, and fortified dairy products",
+    "form": "Cholecalciferol",
+    "source": "Lichens",
+    "supplier": "The GHT Companies / ESB Developments Ltd",
+    "location": "Nottingham, UK",
+    "articles": [
+      {
+        "title": "Foods, fortificants, and supplements: where do Americans get their nutrients?",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/21865568/",
+        "author": "Nutrition Impact LLC",
+        "year": "2011"
+      },
+      {
+        "title": "Effectiveness and safety of vitamin D in relation to bone health",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/18088161/",
+        "author": "University of Ottawa",
+        "year": "2007"
+      },
+      {
+        "title": "Does high dose vitamin D supplementation enhance cognition?: A randomized trial in healthy adults",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/28167237",
+        "author": "University of Northern British Columbia",
+        "year": "2017"
+      },
+    ]
+  },
+  {
+    "name": "Magnesium",
+    "dosage": "30 mg",
+    "description": "Our form is a chelated form of Magnesium.",
+    "imagePath": "/magnesium.jpg",
+    "foundIn": "Lentils, green leafy vegetables, pumpkin seeds, and almonds",
+    "form": "Chelated DiMagnesium Malate",
+    "source": "Chelated Magnesium",
+    "supplier": "Balchem",
+    "location": "Ogden, Utah",
+    "articles": [
+      {
+        "title": "Foods, fortificants, and supplements: where do Americans get their nutrients?",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/21865568/",
+        "author": "Nutrition Impact LLC",
+        "year": "2011"
+      },
+    ]
+  },
+  {
+    "name": "Boron",
+    "dosage": "0.7 mg",
+    "description": "Unlike common and chemically harsh sodium borate, our food-form boron has been clinically tested to show absorption and activity.",
+    "imagePath": "/boron.jpg",
+    "foundIn": "Raisins, prunes, and almonds",
+    "form": "Calcium Fructoborate",
+    "source": "Complex of Boron and Fructose",
+    "supplier": "Futureceuticals",
+    "location": "Momence, Illinois",
+    "articles": [
+      {
+        "title": "Foods, fortificants, and supplements: where do Americans get their nutrients?",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/21865568/",
+        "author": "Nutrition Impact LLC",
+        "year": "2011"
+      },
+    ]
+  },
+  {
+    "name": "Vitamin E",
+    "dosage": "6.7 mg",
+    "description": "We use a soy-free, mixed tocopherols source that matches the composition of Vitamin E found in healthy foods.*",
+    "imagePath": "/vitamin-e.jpg",
+    "foundIn": "Pistachios, walnuts, and flaxseeds",
+    "form": "Alpha-Tocopherol (from mixed tocopherols)",
+    "source": "Rapeseed oil",
+    "supplier": "AOM/Nutralliance",
+    "location": "Buenos Aires, Argentina",
+    "articles": [
+      {
+        "title": "Gamma-tocopherol, the major form of vitamin E in the US diet, deserves more attention",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/11722951/",
+        "author": "University of California at Berkeley",
+        "year": "2001"
+      },
+      {
+        "title": "How an increased intake of alpha-tocopherol can suppress the bioavailability of gamma-tocopherol",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/16808116/",
+        "author": "University of California at Berkeley",
+        "year": "2006"
+      },
+    ]
+  },
+]
